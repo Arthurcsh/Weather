@@ -2,7 +2,8 @@
 //  SceneDelegate.swift
 //  Weather
 //
-//  Created by Shaohua Cheng (PSP) on 2021/6/24.
+//  Created by Shcheng on 2021/6/23.
+//  Copyright © 2021 JDC. All rights reserved.
 //
 
 import UIKit
