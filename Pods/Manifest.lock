@@ -1,3 +1,81 @@
-PODFILE CHECKSUM: 641d80c887a6c00b257044914b99f091a3cd81ee
+PODS:
+  - Alamofire (5.1.0)
+  - AZSClient (0.2.6)
+  - Cluster (3.0.3)
+  - CryptoSwift (1.3.2)
+  - EFCountingLabel (4.1.0)
+  - FLAnimatedImage (1.0.12)
+  - Hero (1.4.0)
+  - lottie-ios (2.5.2)
+  - SDWebImage/Core (4.4.2)
+  - SDWebImage/GIF (4.4.2):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - SDWebImageAPNGCoder (0.1.1):
+    - SDWebImage/Core (~> 4.2)
+  - SKPhotoBrowser (6.1.0)
+  - SnapKit (5.0.1)
+  - SSZipArchive (2.1.5)
+  - TTTAttributedLabel (2.0.0)
+  - ViewAnimator (2.7.0)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (= 5.1)
+  - AZSClient (= 0.2.6)
+  - Cluster (= 3.0.3)
+  - CryptoSwift (= 1.3.2)
+  - EFCountingLabel (= 4.1.0)
+  - FLAnimatedImage (= 1.0.12)
+  - Hero (= 1.4.0)
+  - lottie-ios (= 2.5.2)
+  - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/GIF (= 4.4.2)
+  - SDWebImageAPNGCoder (= 0.1.1)
+  - SKPhotoBrowser (= 6.1.0)
+  - SnapKit (= 5.0.1)
+  - SSZipArchive (= 2.1.5)
+  - TTTAttributedLabel (= 2.0.0)
+  - ViewAnimator (= 2.7.0)
+  - YYText (= 1.0.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AZSClient
+    - Cluster
+    - CryptoSwift
+    - EFCountingLabel
+    - FLAnimatedImage
+    - Hero
+    - lottie-ios
+    - SDWebImage
+    - SDWebImageAPNGCoder
+    - SKPhotoBrowser
+    - SnapKit
+    - SSZipArchive
+    - TTTAttributedLabel
+    - ViewAnimator
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  AZSClient: efd576cabf56f97e38cb1b614739f4b0c1906392
+  Cluster: d72510594f60d901905953aafdc811d1888177ae
+  CryptoSwift: 093499be1a94b0cae36e6c26b70870668cb56060
+  EFCountingLabel: d3da80ee35b212f3b434ed9a3431653504b9f982
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SDWebImageAPNGCoder: 3e4c684c8223eef2f45a50bdd0beaab345e4eb24
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SSZipArchive: cefe1364104a0231268a5deb8495bdf2861f52f0
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 28500151bde30be62bfabf87febaeb7b730dc257
 
 COCOAPODS: 1.10.0

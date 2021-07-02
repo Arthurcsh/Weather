@@ -1,6 +1,6 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
-# source 'git@scm.starbucks.com:china/nuwa-cocoapods-specs.git'
+source 'git@scm.starbucks.com:china/nuwa-cocoapods-specs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 inhibit_all_warnings!
@@ -27,11 +27,11 @@ target 'Weather' do
   pod 'CryptoSwift', '1.3.2'
   pod 'AZSClient', '0.2.6'
 
-#   pod 'JPush', '3.4.0'
-#   pod 'JCore', '2.4.0-noidfa'
-#   pod 'Weibo_SDK', '3.3.0'
-#   pod 'SensorsAnalyticsSDK', '2.0.2'
-#   pod 'AliyunOSSiOS', '2.10.7'
+   pod 'JPush', '3.4.0'
+   pod 'JCore', '2.4.0-noidfa'
+   pod 'Weibo_SDK', '3.3.0'
+   pod 'SensorsAnalyticsSDK', '2.0.2'
+   pod 'AliyunOSSiOS', '2.10.7'
 
   pod 'SDWebImage/Core', '4.4.2'
   pod 'SDWebImage/GIF', '4.4.2'
